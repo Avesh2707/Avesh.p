@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int n ;
+    cin>>n;
+    // alternate method
+
+    // for(int i = n;i>=0;i--){
+    //     for(int j = 1; j <=i;j++){
+    //         cout<<"*";
+    //     }
+
+    for(int i = 1;i<=n;i++){
+        for (int j = 1;j<=n+1-i;j++){             //no. of stars = n+1-i
+            cout<<"*";
+        }cout<<endl;
+    }
+        
+    }
