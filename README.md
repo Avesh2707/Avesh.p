@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Avesh2707/Avesh.p/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Avesh2707/Avesh.p/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## String
@@ -35,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Avesh2707/Avesh.p/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Avesh2707/Avesh.p/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
@@ -51,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Avesh2707/Avesh.p/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Prefix Sum
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
