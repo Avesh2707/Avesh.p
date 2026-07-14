@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Avesh2707/Avesh.p/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Avesh2707/Avesh.p/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Avesh2707/Avesh.p/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Avesh2707/Avesh.p/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Avesh2707/Avesh.p/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
