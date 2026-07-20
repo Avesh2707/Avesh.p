@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Avesh2707/Avesh.p/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Avesh2707/Avesh.p/tree/master/0118-pascals-triangle) |
+| [0137-single-number-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0137-single-number-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Avesh2707/Avesh.p/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
