@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Avesh2707/Avesh.p/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -91,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Avesh2707/Avesh.p/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
