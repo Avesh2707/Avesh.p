@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
+| [3536-maximum-product-of-two-digits](https://github.com/Avesh2707/Avesh.p/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/Avesh2707/Avesh.p/tree/master/0343-integer-break) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/Avesh2707/Avesh.p/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Avesh2707/Avesh.p/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Avesh2707/Avesh.p/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Avesh2707/Avesh.p/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
