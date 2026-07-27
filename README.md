@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avesh2707/Avesh.p/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
