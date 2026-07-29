@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Avesh2707/Avesh.p/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Avesh2707/Avesh.p/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Avesh2707/Avesh.p/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Avesh2707/Avesh.p/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0137-single-number-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Avesh2707/Avesh.p/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0137-single-number-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Avesh2707/Avesh.p/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Avesh2707/Avesh.p/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Avesh2707/Avesh.p/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
