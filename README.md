@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
+| [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Avesh2707/Avesh.p/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/Avesh2707/Avesh.p/tree/master/0343-integer-break) |
+| [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avesh2707/Avesh.p/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Avesh2707/Avesh.p/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Avesh2707/Avesh.p/tree/master/0118-pascals-triangle) |
 | [0343-integer-break](https://github.com/Avesh2707/Avesh.p/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Avesh2707/Avesh.p/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Avesh2707/Avesh.p/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
