@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Avesh2707/Avesh.p/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Avesh2707/Avesh.p/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Avesh2707/Avesh.p/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Avesh2707/Avesh.p/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avesh2707/Avesh.p/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Avesh2707/Avesh.p/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Avesh2707/Avesh.p/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Avesh2707/Avesh.p/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
