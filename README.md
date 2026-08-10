@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Avesh2707/Avesh.p/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Avesh2707/Avesh.p/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2401-longest-nice-subarray](https://github.com/Avesh2707/Avesh.p/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Avesh2707/Avesh.p/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Avesh2707/Avesh.p/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0137-single-number-ii) |
+| [2401-longest-nice-subarray](https://github.com/Avesh2707/Avesh.p/tree/master/2401-longest-nice-subarray) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Avesh2707/Avesh.p/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Avesh2707/Avesh.p/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Avesh2707/Avesh.p/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2401-longest-nice-subarray](https://github.com/Avesh2707/Avesh.p/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Counting
 |  |
