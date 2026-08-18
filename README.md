@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Avesh2707/Avesh.p/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Avesh2707/Avesh.p/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Avesh2707/Avesh.p/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2401-longest-nice-subarray](https://github.com/Avesh2707/Avesh.p/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/2799-count-complete-subarrays-in-an-array) |
