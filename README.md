@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avesh2707/Avesh.p/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Avesh2707/Avesh.p/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Avesh2707/Avesh.p/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Avesh2707/Avesh.p/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Avesh2707/Avesh.p/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Avesh2707/Avesh.p/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Avesh2707/Avesh.p/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Avesh2707/Avesh.p/tree/master/0392-is-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Avesh2707/Avesh.p/tree/master/0014-longest-common-prefix) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
 ## Counting Sort
 |  |
