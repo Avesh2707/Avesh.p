@@ -2,5 +2,8 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "editor.formatOnSave": false,
+    "github.copilot.chat.languageContext.typescript.enabled": false,
+    "chat.disableAIFeatures": false
 }
