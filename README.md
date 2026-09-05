@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Avesh2707/Avesh.p/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/Avesh2707/Avesh.p/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Avesh2707/Avesh.p/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avesh2707/Avesh.p/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Avesh2707/Avesh.p/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Avesh2707/Avesh.p/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Avesh2707/Avesh.p/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/Avesh2707/Avesh.p/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
