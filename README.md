@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Avesh2707/Avesh.p/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Avesh2707/Avesh.p/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Avesh2707/Avesh.p/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Avesh2707/Avesh.p/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Avesh2707/Avesh.p/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Avesh2707/Avesh.p/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Avesh2707/Avesh.p/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Avesh2707/Avesh.p/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/Avesh2707/Avesh.p/tree/master/0343-integer-break) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Avesh2707/Avesh.p/tree/master/0836-rectangle-overlap) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Avesh2707/Avesh.p/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
