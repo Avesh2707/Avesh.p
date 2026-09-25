@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Avesh2707/Avesh.p/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
 | [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Avesh2707/Avesh.p/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Avesh2707/Avesh.p/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Avesh2707/Avesh.p/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Avesh2707/Avesh.p/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Avesh2707/Avesh.p/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/Avesh2707/Avesh.p/tree/master/0343-integer-break) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Avesh2707/Avesh.p/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Avesh2707/Avesh.p/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
