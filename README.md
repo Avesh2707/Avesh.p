@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Avesh2707/Avesh.p/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
 | [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Avesh2707/Avesh.p/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Avesh2707/Avesh.p/tree/master/1652-defuse-the-bomb) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Avesh2707/Avesh.p/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
+| [0904-fruit-into-baskets](https://github.com/Avesh2707/Avesh.p/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Avesh2707/Avesh.p/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Avesh2707/Avesh.p/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/Avesh2707/Avesh.p/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/Avesh2707/Avesh.p/tree/master/1695-maximum-erasure-value) |
