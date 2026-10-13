@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Avesh2707/Avesh.p/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Avesh2707/Avesh.p/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Avesh2707/Avesh.p/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Avesh2707/Avesh.p/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Avesh2707/Avesh.p/tree/master/0392-is-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/Avesh2707/Avesh.p/tree/master/0720-longest-word-in-dictionary) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Avesh2707/Avesh.p/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Avesh2707/Avesh.p/tree/master/0118-pascals-triangle) |
 | [0343-integer-break](https://github.com/Avesh2707/Avesh.p/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Avesh2707/Avesh.p/tree/master/0392-is-subsequence) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Avesh2707/Avesh.p/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Avesh2707/Avesh.p/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Avesh2707/Avesh.p/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Avesh2707/Avesh.p/tree/master/0051-n-queens) |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Avesh2707/Avesh.p/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Avesh2707/Avesh.p/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
