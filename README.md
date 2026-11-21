@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avesh2707/Avesh.p/tree/master/0094-binary-tree-inorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/Avesh2707/Avesh.p/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -290,4 +291,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Avesh2707/Avesh.p/tree/master/0518-coin-change-ii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avesh2707/Avesh.p/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avesh2707/Avesh.p/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avesh2707/Avesh.p/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
