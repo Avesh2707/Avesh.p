@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Avesh2707/Avesh.p/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Avesh2707/Avesh.p/tree/master/0904-fruit-into-baskets) |
 | [0989-add-to-array-form-of-integer](https://github.com/Avesh2707/Avesh.p/tree/master/0989-add-to-array-form-of-integer) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Avesh2707/Avesh.p/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Avesh2707/Avesh.p/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avesh2707/Avesh.p/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Avesh2707/Avesh.p/tree/master/1652-defuse-the-bomb) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Avesh2707/Avesh.p/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avesh2707/Avesh.p/tree/master/0033-search-in-rotated-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Avesh2707/Avesh.p/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Linked List
 |  |
 | ------- |
