@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Avesh2707/Avesh.p/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/Avesh2707/Avesh.p/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Avesh2707/Avesh.p/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Avesh2707/Avesh.p/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avesh2707/Avesh.p/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Avesh2707/Avesh.p/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Avesh2707/Avesh.p/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Avesh2707/Avesh.p/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Avesh2707/Avesh.p/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Avesh2707/Avesh.p/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Avesh2707/Avesh.p/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Avesh2707/Avesh.p/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
